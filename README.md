@@ -1,8 +1,9 @@
 👋 Hi, I’m Syed Muhammad Moosa Raza (@moosaraza123)
 
-👀 I’m interested in backend and full-stack web development, exploring new tech stacks, and building efficient, scalable applications.
-🌱 I’m currently learning advanced backend frameworks, cloud integration, and refining my skills in NoSQL and Laravel.
-💞️ I’m looking to collaborate on innovative projects in web development, especially those involving complex backend systems and RESTful API development.
-📫 How to reach me: LinkedIn | Email
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m always up for a coding challenge and enjoy finding creative solutions to tricky development problems!
+👨‍🎓 Background: BSc Computer Science graduate with a passion for web development and design.
+👀 Interests: Creating dynamic, user-friendly applications and exploring the latest web technologies.
+💼 Skills: Proficient in React, Redux, HTML, CSS, Bootstrap, and more.
+🌱 Currently learning: Advanced backend techniques, cloud integrations, and modern frameworks.
+💞️ Looking to collaborate: On web development projects that push creative boundaries and solve real-world problems.
+📫 Contact: LinkedIn | Email
+⚡ Fun fact: I love finding new and efficient solutions for design and development challenges!
