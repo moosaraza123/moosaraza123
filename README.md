@@ -82,21 +82,4 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moosaraza123&show_icons=true&locale=en" alt="moosaraza123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moosaraza123&" alt="moosaraza123" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moosaraza123&show_icons=true&locale=en&layout=compact" alt="moosaraza123" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosaraza123/moosaraza123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moosaraza123/moosaraza123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/moosaraza123/moosaraza123/output/github-snake.svg" />
-</picture>
-
-<h2>📈 Featured Projects</h2>
-<ul>
-    <li><a target="_blank" href="https://github.com/moosaraza123/Ecommerce-Website-Laravel">Ecommerce-Website-Laravel</a>: An e-commerce platform built using Laravel, designed to provide seamless online shopping experiences.</li>
-    <li><a target="_blank" href="https://github.com/moosaraza123/Coinssy">Coinssy</a>: A cryptocurrency tracking web app built with React and integrated with various cryptocurrency APIs.</li>
-    <li><a target="_blank" href="https://github.com/moosaraza123/Thaika">Thaika</a>: A project built using the MERN stack, designed to manage the flow of rental properties and transactions.</li>
-    <li><a target="_blank" href="https://github.com/moosaraza123/Rentable">Rentable</a>: A rental property management system built using Laravel, allowing landlords and tenants to interact effectively.</li>
-</ul>
 
